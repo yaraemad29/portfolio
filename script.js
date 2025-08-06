@@ -1,1 +1,1 @@
-console.log("Welcome to Yara's Portfolio!");
+console.log("Yara's animated dark portfolio loaded.");
